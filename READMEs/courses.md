@@ -3,7 +3,7 @@
   
 [[SPECIALIZATION CERTIFICATE]](https://github.com/Lenferdetroud/misc/blob/master/certificates/Applied%20Data%20Science%20with%20Python/SPECIALIZATION.pdf)  
 [[Certificates folder]](https://github.com/Lenferdetroud/misc/tree/master/certificates/Applied%20Data%20Science%20with%20Python)  
-[[Assignments folder]](https://github.com/Lenferdetroud/ipython-notebooks/tree/master/%D0%90pplied%20Data%20Science%20with%20Python)
+[[Assignments folder]](https://github.com/Lenferdetroud/jupyter-notebooks/tree/master/Applied%20Data%20Science%20with%20Python)
   
   
 * **Coursera specialization '[Deep Learning](https://www.coursera.org/specializations/deep-learning)'**  
